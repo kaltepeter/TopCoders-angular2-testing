@@ -1,4 +1,4 @@
-import { Observable } from 'rxjs/Observable';
+import { Observable } from 'rxjs/Rx';
 import { ResponseOptions, Response } from '@angular/http';
 import { HeroSearchService } from './hero-search.service';
 import { Hero } from '../shared/hero';
