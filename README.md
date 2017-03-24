@@ -25,4 +25,5 @@ This repository contains the materials for the workshop.
 ## Workshop Documents
 
 * Read the [workshop notes](https://docs.google.com/document/d/1aSc9ndWBiQRObQ1AWVmdx7BDj3ksyhog85zGIHSHTuw/edit?usp=sharing)
-* Read the [presentation](https://docs.google.com/)
+
+* Read the [presentation](https://docs.google.com/presentation/d/1FYr10N1sLKo9yNxIM28Xaahz8BRxIMYCs7NjXoDgHsU/edit?usp=sharing)
