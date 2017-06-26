@@ -9,7 +9,7 @@ This repository contains the materials for the workshop.
 * Install [Node.js](https://nodejs.org/en/download/) (maybe [nvm](https://github.com/creationix/nvm) too)
 * Clone the repository
   * `git clone https://github.com/joeeames/TopCoders-angular2-testing.git`
-  * `cd angular2-testing`
+  * `cd TopCoders-angular2-testing`
 * Install the angular CLI tool globally (needs to be >= beta.15)
   * `npm install -g angular-cli`
 * Install the karma CLI tool globally
