@@ -80,7 +80,7 @@ typings/
 # Gradle:
 .idea/**/gradle.xml
 .idea/**/libraries
-
+.idea/sonarlint
 # CMake
 cmake-build-debug/
 
